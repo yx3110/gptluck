@@ -1,0 +1,6 @@
+type User @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  BirthDay: String
+  query: String
+  resultHistory: String
+}

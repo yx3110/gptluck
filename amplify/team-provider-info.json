@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gptluck-staging-72733-authRole",
+      "UnauthRoleArn": "arn:aws:iam::846842651625:role/amplify-gptluck-staging-72733-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::846842651625:role/amplify-gptluck-staging-72733-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-gptluck-staging-72733-deployment",
+      "UnauthRoleName": "amplify-gptluck-staging-72733-unauthRole",
+      "StackName": "amplify-gptluck-staging-72733",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:846842651625:stack/amplify-gptluck-staging-72733/fd304040-db5e-11ed-a042-02a58daec932",
+      "AmplifyAppId": "d81drh563dziy"
+    }
+  }
+}
